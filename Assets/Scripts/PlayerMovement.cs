@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         print("deneme");
+        print("seneme");
     }
 
     // Update is called once per frame
